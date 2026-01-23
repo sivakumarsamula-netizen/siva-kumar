@@ -4,6 +4,7 @@ class tb;
 	initial begin
 		
 		$display("siva kumar samula");
+		$display("hiiiiiii");
 
 	end
 
